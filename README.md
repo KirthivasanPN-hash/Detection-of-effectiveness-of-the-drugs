@@ -1,1 +1,1 @@
-# Detection-of-effectiveness-of-the-drugs
+# Drug Effectiveness Detector
